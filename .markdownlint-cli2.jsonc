@@ -1,0 +1,5 @@
+{
+  // Prose repos: keep structure rules, skip line length and inline HTML used in profile badges.
+  "config": { "MD013": false, "MD033": false, "MD041": false },
+  "ignores": ["node_modules/**"]
+}
