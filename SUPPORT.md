@@ -1,7 +1,7 @@
 # Support
 
-Solo Empire is a personal solopreneur project. For questions or collaboration:
+These are personal solopreneur projects. For questions or collaboration:
 
-- **GitHub Issues**: [bookchaowalit/solo-empire/issues](https://github.com/bookchaowalit/solo-empire/issues)
+- **GitHub Issues**: open an issue on the repository you are using
 - **GitHub Discussions**: Enable in repo settings for community Q&A
 - **Email**: Contact via GitHub profile
